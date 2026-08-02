@@ -2,7 +2,7 @@
 
 ## My portfolio:
 
-https://nghia-s-page.github.io/code-my-palette/
+[🔗 Click to link](https://nghiaut.github.io/my-portfolio/)
 
 ## 🌟 About me
 
@@ -10,6 +10,7 @@ https://nghia-s-page.github.io/code-my-palette/
 - 📖Currently studying **Computer Science** at Ho Chi Minh University of Technology(**BKU**)
 - 🚀Aiming for further career in software engineering, especially in backend development
 - 🙌Enthusiastic learner and strive for new knowledge
+- 🧗TOEIC 955: Strong Listening & Reading, Now Improving Writing & Speaking
 
 ## 🧰Languages & Frameworks
 
@@ -23,7 +24,7 @@ https://nghia-s-page.github.io/code-my-palette/
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://vercel.com/newtakanghias-projects/github-readme-stats-private/57ei35xXsFNhV28Q3UMviLNtC4ci/api/top-langs/?username=NewtakaNghia&layout=compact&theme=radical)
+[![Top Langs](https://vercel.app)](https://github.com/NghiaUT)
 
 ## 🚀 Featured Projects
 
@@ -48,6 +49,7 @@ Key technical highlights:
 ### EventPass — Event Ticketing Platform
 
 **Repo:** [NghiaUT/EventPass_Frontend](https://github.com/NghiaUT/EventPass_Frontend)
+**Live Demo:** [qldapm-front-end.vercel.app (Hot Reload)](https://qldapm-front-end.vercel.app/)
 
 Built following a **Scrum** workflow, EventPass is an event ticketing platform that supports **check-in via dynamic QR codes** and login through **Google and Facebook**.
 

@@ -1,6 +1,6 @@
-### TrongNghia's profile
+###👋 Hey there!
 
-## My portfolio:
+## 🚩My portfolio:
 
 [🔗 Click to link](https://nghiaut.github.io/my-portfolio/)
 
